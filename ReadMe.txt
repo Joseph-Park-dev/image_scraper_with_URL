@@ -32,7 +32,7 @@ Broader website support such as Pinterest will be updated later. Someday...
 Other languages such as Korean or other... it works but shows quirky behaviours
 such as not downloading files
 
-3) Please consider the legal, systemic risk
+3) Please consider the legal, systemic risks
 Be wise, I dare to advise you.
 For any legal problems (copyrights or etc) made by the user of this program,
 I take no responsibility.
