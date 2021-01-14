@@ -7,7 +7,7 @@ Original Author
 - "eamander" on GitHub [https://github.com/eamander/Pinterest_scraper]
 
 Code Modified by
-- JungBae Park (Joseph Park)
+- Joseph Park
 
 ##### 유용한 노트들 #####
 1) 구글 검색 URL만 입력해 주세요
@@ -22,7 +22,7 @@ Code Modified by
 개발자는 이 프로그램의 유저가 야기한 법적 책임 (저작권 등)에 대해서
 책임을 지지 않습니다.
 
-감사해요! by JungBae
+감사해요! by Joseph
 
 ##### Useful Notes #####
 1) GOOGLE SEARCH URLS ONLY
@@ -37,4 +37,4 @@ Be wise, I dare to advise you.
 For any legal problems (copyrights or etc) made by the user of this program,
 I take no responsibility.
 
-Thank you! by JungBae
+Thank you! by Joseph
