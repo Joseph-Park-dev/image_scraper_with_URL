@@ -10,7 +10,7 @@ Code Modified by
 - Joseph Park
 
 ##### 유용한 노트들 #####
-1) 구글 검색 URL만 입력해 주세요
+1) 구글 검색 이미지  URL만 입력해 주세요
 핀터레스트등 사이트의 지원은 나중에 업데이트 될것입니다. 언젠가는...
 
 2) 영어 검색 URL만 입력 해주세요
@@ -25,7 +25,7 @@ Code Modified by
 감사해요! by Joseph
 
 ##### Useful Notes #####
-1) GOOGLE SEARCH URLS ONLY
+1) GOOGLE SEARCH IMAGE TAB URLS ONLY
 Broader website support such as Pinterest will be updated later. Someday...
 
 2) ENGLISH SEARCH URLS ONLY
