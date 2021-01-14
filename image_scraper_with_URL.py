@@ -5,7 +5,6 @@ import time
 import io
 from PIL import Image
 import hashlib
-import msvcrt
 
 '''
 Web Image Scraper
@@ -56,15 +55,13 @@ class InputManager(object):
 
                 """)
             return URL, None, None
-        elif img_source == "Pinterest" :
+        elif img_source == "Others":
             print("""
 
-                Current Image Source : Pinterest
+                Current Image Source : Others
 
                 """)
-            login_Pinterest_ID = input("Please insert your ID on Pinterest > ")
-            login_Pinterest_PWD = input("Please insert your Password on Pinterest")
-            return print("Pinterest features hasn't been updated yet")
+            return URL, None, None
 
     def get_destination_folder(self):
         folder_name = None
@@ -79,12 +76,10 @@ class InputManager(object):
 
     def verify_user_input(self, URL):
         src = None
-        if URL.find("www.pinterest.co.kr") != -1:
-            src = "Pinterest"
-        elif URL.find("www.google.com") != -1:
+        if URL.find("www.google.com") != -1:
             src = "Google"
         else:
-            print("Error : Please insert the valid URL")
+            src = "Others"
         return src
 
 ########## Fabian Bosler's Code, modified by JungBae Park ##########
